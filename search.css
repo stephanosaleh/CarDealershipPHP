@@ -1,0 +1,35 @@
+.search-label{
+    font-size: 1.5em;
+}
+.search-button{
+    height: 30px;
+    border-radius: 6px;
+    background-color: #C4CFD4;
+}
+.search-button:hover{
+    background-color: #7D5D4F;
+    color: #DFDBD8;
+}
+.search-input{
+    height: 30px;
+    border-radius: 6px;
+    background-color: lightgray;
+}
+.search{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    margin: 15px;
+}
+fieldset{
+    display: inline;
+    border: 2px solid #7D5D4F;
+}
+legend{
+    font-size: 20px;
+}
+.search-select{
+    height: 30px;
+    border-radius: 6px;
+    background-color: #C4CFD4;
+}

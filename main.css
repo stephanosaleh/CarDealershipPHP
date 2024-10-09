@@ -1,0 +1,28 @@
+h1{
+    font-size: 50px;
+    color: #565C5E;
+    margin-top: 70px;
+    text-align: center;
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.menu-button{
+    border: 2px solid #333;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: #455954;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    font-size: 26px;
+}
+.menu-button:hover {
+    background-color: #647A74;
+  }
+p{
+    margin-top: 50px;
+}
